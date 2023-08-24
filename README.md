@@ -1,3 +1,3 @@
-# IBM Data Analyst Capstone Project
+# Applied Data Science Capstone
 
 
